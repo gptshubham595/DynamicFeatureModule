@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicFeatureModule</string>
+    <string name="title_oninstallmodule">onInstall</string>
+    <string name="title_ondemand">onDemand</string>
+</resources>
